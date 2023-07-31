@@ -1,5 +1,11 @@
 # Hi there, I'm Xiaolei Li 👋
 
+Welcome to my GitHub profile!
+
+## About me
+- 💼 I work as a software engineer at a sortware company.
+- ⚡ Fun fact: I'm a fan of protography and reading, but not goot at protography yet.
+
 ## Connect with me 
 - Twitter: [@lxlgarnett](https://twitter.com/lxlgarnett)
 - 📫 : lxlgarnett@gmail.com
