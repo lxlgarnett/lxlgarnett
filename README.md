@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile!
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lxlgarnett&layout=compact&theme=tokyonight)
+
 ## About me
 - 💼 I work as a software engineer at a sortware company.
 - ⚡ Fun fact: I'm a fan of protography and reading, but not goot at protography yet.
