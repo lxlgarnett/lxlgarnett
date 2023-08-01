@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 ![Xiaolei's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxlgarnett&show_icons=true&theme=tokyonight)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxlgarnett&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxlgarnett&layout=pie&theme=tokyonight)
 
 ## Connect with me 
 - Twitter: [@lxlgarnett](https://twitter.com/lxlgarnett)
