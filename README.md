@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxlgarnett&layout=pie&theme=tokyonight)
 
 ## Connect with me 
-- Twitter: [@lxlgarnett](https://twitter.com/lxlgarnett)
+- Twitter: [@kid_xiaolei](https://twitter.com/kid_xiaolei)
 - 📫 : lxlgarnett@gmail.com
 
 <!--
