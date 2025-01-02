@@ -6,9 +6,10 @@ Welcome to my GitHub profile!
 - 💼 I work as a software engineer at a sortware company.
 - ⚡ Fun fact: I'm a fan of protography and reading, but not goot at protography yet.
 
+<!--
 ## GitHub Stats
 ![Xiaolei's GitHub stats](https://github-readme-stats.vercel.app/api?username=lxlgarnett&show_icons=true&theme=tokyonight)
-
+-->
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lxlgarnett&layout=pie&theme=tokyonight)
 
